@@ -190,7 +190,7 @@ $DEFAULT_SETTINGS_STRING = @"
 # useConfigFile = configs\quick-initial-test.yCruncher.config.ini
 #
 # Default: (empty)
-useConfigFile =
+useConfigFile = configs\Ryzen.yCruncher.BreadPit.config.ini
 
 
 # The program to perform the actual stress test
